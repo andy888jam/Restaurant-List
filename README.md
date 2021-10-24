@@ -27,9 +27,11 @@ npm install
 ```
 npm run start
 ```
-##開發工具
-Node.js v14.16.0
-Express 4.17.1
-Express-Handlebars 5.3.4
-Bootstrap 4.2.1
-Font-awesome 5.15.4
+
+
+## 開發工具
+- Node.js v14.16.0
+- Express 4.17.1
+- Express-Handlebars 5.3.4
+- Bootstrap 4.2.1
+- Font-awesome 5.15.4
