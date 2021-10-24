@@ -12,11 +12,11 @@
 
 1. 先將此專案clone到本機
 
-2. cd至專案資料夾
+2. 打開終端機(terminal)cd至專案資料夾
 
 3. 確認本機是否已經安裝Node.js以及npm
 
-4. 打開終端機(terminal)輸入：
+4. 在終端機輸入：
 
 ```
 npm install
