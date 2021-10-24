@@ -30,7 +30,7 @@ npm run start
 
 
 ## 開發工具
-- Node.js v14.16.0
+- Node.js 14.16.0
 - Express 4.17.1
 - Express-Handlebars 5.3.4
 - Bootstrap 4.2.1
